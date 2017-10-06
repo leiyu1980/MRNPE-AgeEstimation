@@ -1,5 +1,5 @@
 # Caffe implementation of MRNPE 
-Based on "Multi-Region Ensemble Convolutional Neural Networks for High Accuracy Age Estimatios"
+Based on "Multi-Region Ensemble Convolutional Neural Networks for High-Accuracy Age Estimatios"
 
 The sources will include:
 1. Facial Landmark Tool
