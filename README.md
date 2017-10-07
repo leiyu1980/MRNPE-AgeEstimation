@@ -6,6 +6,6 @@ The sources will include:
 2. Training Files: train_net.prototxt, solver.prototxt, deploy.prototxt
 3. Predicting File: predict.py
 4. Caffe model (Website): Uploading on google driver
-5  Pytorch version codes
+5. Pytorch version codes
 
 Unfinished
