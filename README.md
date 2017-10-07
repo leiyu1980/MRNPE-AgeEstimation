@@ -7,3 +7,4 @@ The sources will include:
 3. Predicting File: predict.py
 4. Caffe model (Website): Uploading on google driver
 
+Unfinished
