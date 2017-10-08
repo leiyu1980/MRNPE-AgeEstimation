@@ -6,7 +6,7 @@ The sources will include:
 2. Training Files: train_net.prototxt, solver.prototxt, deploy.prototxt
 3. Prediction File: predict.py
 4. Trained MRNPE Caffe model (VGG version) for MORPH Album 2 dataset, pre-trained MRNPE caffe model and Raw VGG Caffe model (Google Driver Link): https://drive.google.com/open?id=0B1x8_JmGc7TFcXJrdVhOU2RDekE
-5. Pytorch version codes
+5. Pytorch version codes (Unfinished)
 
 Unfinished (Still need to modify the instructions/codes and add some explaination for the codes.)
 
