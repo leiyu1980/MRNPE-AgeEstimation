@@ -13,7 +13,8 @@ Unfinished (Still need to modify the instructions/codes and add some explainatio
 # Prerequisites
 Caffe, C++, Matplotlib, Python 2.7
 
-# Usage (Change code's setting of path according to users own environment)
+# Usage
+(modify code's setting of path according to users own environment)
 1. Download the Morph 2 dataset. Download address: [Following Yi's protocol](http://www.cbsr.ia.ac.cn/users/dyi/agr.html)
 2. data augmentation. (Rotation, Adding noises for training. Mirroring testing images for testing)
 3. Run FaceLandmark/List_crop.cpp to crop the images of the sub-regions(According to Morph 2 dataset's shapeList file)
