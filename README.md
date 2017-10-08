@@ -5,7 +5,7 @@ The sources will include:
 1. Facial Landmark Tool (.cpp file)
 2. Training Files: train_net.prototxt, solver.prototxt, deploy.prototxt
 3. Predicting File: predict.py
-4. Caffe model (Google Driver Link): Uploading on google driver
+4. Trained Caffe model (Alexnet version) and Raw VGG Caffe model(Google Driver Link): https://drive.google.com/open?id=0B1x8_JmGc7TFcXJrdVhOU2RDekE
 5. Pytorch version codes
 
 Unfinished
